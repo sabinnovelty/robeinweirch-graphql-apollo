@@ -1,0 +1,3 @@
+1 Packages Required:
+    npm install apollo-server apollo-server-express --save
+    npm install express graphql --save
